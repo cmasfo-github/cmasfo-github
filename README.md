@@ -37,7 +37,7 @@ I currently have these following 4 social links:
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * This is for discussing about the project development.
 
-I also run the korean forum on the [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
+You can also consider using the main repo's [discussion section](https://github.com/cmasfo-github/cmasfo-git/discussions).
 
 ## Contact & Donation
 
@@ -48,4 +48,4 @@ If you are interested in this project, please consider contact or donation.
 * [PayPal](https://paypal.me/cmasfopaypal) (USD)
 * [Toss](https://toss.me/cmasfo) (KRW)
 
-You can also contribute the project with making github issues or pull requests.
+You can also contribute to this project with making github issues, or pulling requests.
