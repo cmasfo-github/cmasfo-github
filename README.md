@@ -7,6 +7,8 @@ Currently, everything is still under the development.
 
 ## Repositories
 
+I mainly run 6 repositories.
+
 * cmasfo-git: The Main Repository
   * This also contains all other repositories as submodules.
 * cmasfo-dev: Rust Dev Crate
