@@ -10,7 +10,7 @@ Currently, everything is still under the development.
 * cmasfo-git: The Main Repository
   * This also contains all other repositories as submodules.
 * cmasfo-dev: Rust Dev Crate
-  * This is also registered to [crates.io]([https://crates.io](https://crates.io/crates/cmasfo-dev).
+  * This is also registered to [crates.io](https://crates.io/crates/cmasfo-dev).
 * cmasfo-ssg
   * This will be served as an admin website, on [cmasfo.net](https://cmasfo.net).
 * cmasfo-cms
