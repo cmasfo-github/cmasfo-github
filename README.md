@@ -22,6 +22,8 @@ I mainly run 6 repositories.
 * cmasfo-app: Cross-Platform Application
   * This will be released on [GitHub Releases](https://github.com/cmasfo-github/cmasfo-app/releases).
 
+If you want to see them, just downloading cmasfo-git will be enough.
+
 ## Contact & Donation
 
 * Gmail: cmasfo@gmail.com (English)
