@@ -37,7 +37,7 @@ I currently have these following 4 social links:
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * This is for discussing about the project development.
 
-You can also consider using the main repo's [discussion](https://github.com/cmasfo-github/cmasfo-git/discussions) section.
+Also, consider using the main repo's [discussion](https://github.com/cmasfo-github/cmasfo-git/discussions) section, if you have something to say.
 
 ## Contact & Donation
 
