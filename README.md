@@ -26,13 +26,13 @@ If you want to see them, just downloading cmasfo-git will be enough.
 
 ## Social Links
 
-* [GitHub](https://github.com/cmasfo-github)
+* [GitHub](https://github.com/cmasfo-github): The GitHub Account
   * The Main Account
-* [Twitter](https://twitter.com/cmasfo)
+* [Twitter](https://twitter.com/cmasfo): The Update News
   * The Update News
-* [YouTube](https://youtube.com/@cmasfo)
+* [YouTube](https://youtube.com/@cmasfo): The YouTube Channel
   * The Guide Videos
-* [Discord](https://discord.gg/CBmrstKXth)
+* [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * The Project Discussion
 
 ## Contact & Donation
