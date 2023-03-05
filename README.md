@@ -31,11 +31,11 @@ I currently have these following 4 social links:
 * [GitHub](https://github.com/cmasfo-github): The GitHub Account
   * This is the main account for overall activities.
 * [Twitter](https://twitter.com/cmasfo): The Twitter Account
-  * This for announcing current updates or future plans.
+  * This is for announcing current updates or future plans.
 * [YouTube](https://youtube.com/@cmasfo): The YouTube Channel
-  * This for uploading tutorials or guide videos.
+  * This is for uploading tutorials or guide videos.
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
-  * This for discussing about the project development.
+  * This is for discussing about the project development.
 
 I also run the korean forum on the [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
 
