@@ -24,6 +24,17 @@ I mainly run 6 repositories.
 
 If you want to see them, just downloading cmasfo-git will be enough.
 
+## Social Links
+
+* [GitHub](https://github.com/cmasfo-github)
+  * The Main Account
+* [Twitter](https://twitter.com/cmasfo)
+  * The Update News
+* [YouTube](https://youtube.com/@cmasfo)
+  * The Guide Videos
+* [Discord](https://discord.gg/CBmrstKXth)
+  * The Project Discussion
+
 ## Contact & Donation
 
 * Gmail: cmasfo@gmail.com (English)
