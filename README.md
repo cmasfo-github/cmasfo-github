@@ -41,7 +41,11 @@ I also run the korean forum on the [dcinside](https://gall.dcinside.com/mini/boa
 
 ## Contact & Donation
 
+If you are interested in this project, please consider contact or donation.
+
 * Gmail: cmasfo@gmail.com (English)
 * Naver: cmasfo@naver.com (Korean)
 * [PayPal](https://paypal.me/cmasfopaypal) (USD)
 * [Toss](https://toss.me/cmasfo) (KRW)
+
+You can also contribute the project with making github issues or pull requests.
