@@ -5,6 +5,10 @@ Welcome to CMASFO GitHub.
 
 Currently, everything is still under the development.
 
+So, please be patient for the prototype or any alpha release.
+
+I'll make them as soon as possible.
+
 ## Repositories
 
 I mainly run 6 repositories.
