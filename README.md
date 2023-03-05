@@ -37,7 +37,7 @@ I currently have these following 4 social links:
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * This is for discussing about the project development.
 
-Also, consider using the main repo's [discussion](https://github.com/cmasfo-github/cmasfo-git/discussions) section, if you have something to say.
+Also, I run the korean forum on [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
 
 ## Contact & Donation
 
