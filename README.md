@@ -26,6 +26,8 @@ If you want to see them, just downloading cmasfo-git will be enough.
 
 ## Social Links
 
+I currently have these following 4 social links:
+
 * [GitHub](https://github.com/cmasfo-github): The GitHub Account
   * This is the main account for overall activities.
 * [Twitter](https://twitter.com/cmasfo): The Twitter Account
@@ -34,6 +36,8 @@ If you want to see them, just downloading cmasfo-git will be enough.
   * This for uploading tutorials or guide videos.
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * This for discussing about the project development.
+
+I also run the korean forum on the [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
 
 ## Contact & Donation
 
