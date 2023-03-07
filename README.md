@@ -41,7 +41,7 @@ I currently have these following 4 social links:
 * [Discord](https://discord.gg/CBmrstKXth): The Discord Channel
   * This is for discussing about the project development.
 
-Also, I run the korean forum on [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
+If you are Korean, consider visiting the korean forum on [dcinside](https://gall.dcinside.com/mini/board/lists?id=website).
 
 ## Contact & Donation
 
